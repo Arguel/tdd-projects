@@ -1,22 +1,17 @@
 {
-  "name": "tdd-projects",
-  "version": "1.0.0",
-  "description": "tdd basics from fireship",
-  "main": "index.js",
+  "name": "tdd-basics-fireship",
+  "version": "0.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview",
+    "test": "jest --watchAll --verbose"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Arguel/tdd-projects.git"
+  "devDependencies": {
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4"
   },
-  "keywords": [
-    "tdd"
-  ],
-  "author": "Arguel",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Arguel/tdd-projects/issues"
-  },
-  "homepage": "https://github.com/Arguel/tdd-projects#readme"
+  "dependencies": {
+    "jest": "^27.3.0"
+  }
 }

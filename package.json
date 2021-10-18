@@ -1,0 +1,22 @@
+{
+  "name": "tdd-projects",
+  "version": "1.0.0",
+  "description": "tdd basics from fireship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arguel/tdd-projects.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "Arguel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arguel/tdd-projects/issues"
+  },
+  "homepage": "https://github.com/Arguel/tdd-projects#readme"
+}
