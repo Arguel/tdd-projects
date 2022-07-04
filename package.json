@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arguel/tdd-projects.git"
+    "url": "git+https://github.com/enzoarguello512/tdd-projects.git"
   },
   "keywords": [
     "tdd"
   ],
-  "author": "Arguel",
+  "author": "enzoarguello512",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Arguel/tdd-projects/issues"
+    "url": "https://github.com/enzoarguello512/tdd-projects/issues"
   },
-  "homepage": "https://github.com/Arguel/tdd-projects#readme"
+  "homepage": "https://github.com/enzoarguello512/tdd-projects#readme"
 }
